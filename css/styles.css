@@ -7,15 +7,15 @@ body {
   background-color: #B5DDDD;
 }
 
-a {
+a, a:visited, a:link  {
+  color:#008B8B;
   text-decoration: none;
 }
 
-a, a:visited { color:#008B8B; }
-
-a:hover      { color:#008B6B; }
-a:active  { color:#004B6B; }
-
+a:active, a:hover  {
+  color:#004B6B;
+  text-decoration: none;
+}
 
 #title {
   font-size: 1.45em;
@@ -33,6 +33,10 @@ h4 {margin:0;}
 .header {
   padding: 2em;
   padding-bottom: 1em;
+}
+
+.bar {
+  color:pink;
 }
 
 #underline {text-decoration: underline overline;}
@@ -59,6 +63,10 @@ table {
 th, td {
   padding: 15px;
   width: 15em;
+}
+
+h1 {
+  text-align: center;
 }
 
 th:nth-child(1), td:nth-child(1) {width: 6em;}
