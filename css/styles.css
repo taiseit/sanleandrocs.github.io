@@ -28,6 +28,14 @@ a:active, a:hover  {
   background-color: white;
 }
 
+p {
+  padding-top: 5px;
+}
+
+pre {
+  padding-top: 5px;
+}
+
 h4 {margin:0;}
 
 .header {
