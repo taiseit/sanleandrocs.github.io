@@ -62,6 +62,10 @@ text-align: center;
   width: 100%;
 }
 
+.bar {
+  color: #004B6B;
+}
+
 #underline {text-decoration: underline overline;}
 
 .main {
