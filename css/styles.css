@@ -35,8 +35,23 @@ h4 {margin:0;}
   padding-bottom: 1em;
 }
 
-.bar {
-  color:pink;
+.container {
+text-align: center;
+}
+
+.pfp {
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+}
+
+.pfp-caption {
+  text-align: center;
+  padding: 5px;
+}
+
+.banner {
+  width: 100%;
 }
 
 #underline {text-decoration: underline overline;}
