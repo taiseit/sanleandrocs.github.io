@@ -12,6 +12,10 @@ h6 {
   font-weight: 700;
 }
 
+.main {
+    padding: 2rem;
+}
+
 header.masthead {
   position: relative;
   background-color: #343a40;
@@ -36,6 +40,12 @@ header.masthead .overlay {
 
 header.masthead h1 {
   font-size: 2rem;
+}
+
+.navbar-btn {
+   margin-left: 0.5rem;
+   margin-top: 0.25rem;
+   margin-bottom: 0.25rem;
 }
 
 @media (min-width: 768px) {
