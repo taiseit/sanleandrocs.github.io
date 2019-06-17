@@ -49,7 +49,8 @@ We may forget to introduce some concepts, but asking questions will help you and
 ## Processing Lesson and Tasks
 
 A. Opening Screen
-   1. Click play and you will circles appear on your screen wherever your mouse is.
+   1. Click 'Create a Sketch'.
+   2. Click play on the top black bar and you will have circles appear on your screen wherever your mouse is.
       - Inside the code (</>), you'll find a setup function and a draw function that contains code.
       - Look up documentation by searching in taskbar tab labeled reference. For instance, if you look up `setup()`, you get [here](http://p5js.org/reference/#/p5/setup).
          - Note that there is an **example**, a **description** of the function, and **syntax** (rules to make the computer understand what you want to write. You will spend a lot of time looking at your code and
