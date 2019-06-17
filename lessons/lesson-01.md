@@ -53,24 +53,29 @@ A. Opening Screen
       b. Look up documentation by searching in taskbar tab labeled reference. For instance, if you look up `setup()`, you get [here](http://p5js.org/reference/#/p5/setup).
          i. Note that there is an **example**, a **description** of the function, and **syntax** (rules to make the computer understand what you want to write. You will spend a lot of time looking at your code and
             looking back at this documentation for each function.
+
 B. Task 1: Make an ellipse appear in the middle of the screen. Use the syntax of the ellipse function to change the coordinates.
    1. To help, modify the function to print the height and width. Type this EXACTLY in your code:
       ```javascript
       function setup() {
-      createCanvas(windowWidth, windowHeight);
-      print(windowWidth);
-      print(windowHeight);
-      background(100);
+        createCanvas(windowWidth, windowHeight);
+        print(windowWidth);
+        print(windowHeight);
+        background(100);
       }
 
       function draw() {
-          ellipse(mouseX, mouseY, 20, 20);
-      }```
+        ellipse(mouseX, mouseY, 20, 20);
+      }
+      ```
    2. The screen has a width and height depending on your current monitor. The top left corner starts at (0,0). The bottom right corner is at (windowWidth, windowHeight).
+
 C. Task 2: Take a blank sheet of paper or graph paper and draw a robot.
    1. A robot can be a blender, vacuum cleaner, or anything!
+
 D. Task 3:
    1. Convert your hand-drawn robot into life using processing. Use the steps from Task 1 and documentation from the opening screen.
    2. The 2D primitives [here](http://p5js.org/reference/) will help you a lot!
+
 E. Task 4:
    1. After making your shapes, add color using the `fill()` function found [here](http://p5js.org/reference/#/p5/fill).
