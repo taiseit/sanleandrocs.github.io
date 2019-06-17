@@ -76,7 +76,7 @@ C. Task 2: Take a blank sheet of paper or graph paper and draw a robot.
    1. A robot can be a blender, vacuum cleaner, or anything!
 
 D. Task 3:
-   1. Convert your hand-drawn robot into life using processing. Use the steps from Task 1 and documentation from the opening screen. To set (0,0) to the center of the display window, add _translate(width/2,height/2);_ into the draw function as follows:
+   1. Convert your hand-drawn robot into life using processing. Use the steps from Task 1 and documentation from the opening screen. To set (0,0) to the center of the display window, add **translate(width/2,height/2);** into the draw function as follows:
       ```javascript
       function setup() {
         createCanvas(windowWidth, windowHeight);
