@@ -15,7 +15,7 @@
 ---
 
 
-## during the class
+## introduction
 
 **Intros**
 
@@ -45,7 +45,9 @@ We may forget to introduce some concepts, but asking questions will help you and
 
     Programming is a subset of CS.
 
-**Processing**
+---
+
+## Processing Lesson and Tasks
 
 A. Opening Screen
    1. Click play and you will circles appear on your screen wherever your mouse is.
