@@ -78,7 +78,7 @@ C. Task 2: Take a blank sheet of paper or graph paper and draw a robot.
 D. Task 3:
    1. Convert your hand-drawn robot into life using processing. Use the steps from Task 1 and documentation from the opening screen.
    
-   Tip: to set (0,0) to the center of the display window, insert the command _translate(width/2,height/2);_ into the draw function as follows
+   Tip: to set (0,0) to the center of the display window, insert the command _translate(width/2,height/2);_ into the draw function as follows:
    ```javascript
       function setup() {
         createCanvas(windowWidth, windowHeight);
@@ -89,7 +89,7 @@ D. Task 3:
         translate(width/2,height/2);
         ellipse(mouseX, mouseY, 20, 20);
       }
-      ```
+   ```
    2. The 2D primitives [here](http://p5js.org/reference/) will help you a lot!
 
 E. Task 4:
