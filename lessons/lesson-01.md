@@ -3,8 +3,7 @@
 1. Intros (Instructors & Students) - 5 min
 2. Describe Program - 10 min
 4. What is Computer Science? - 10 min
-5. Drawing Exercise - 7 min
-6. Processing - 1-1.5 hrs
+6. Processing Tasks - 1-1.5 hrs
 
 ---
 
