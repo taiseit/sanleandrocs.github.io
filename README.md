@@ -1,4 +1,3 @@
-Course Website for Experimental CS Sessions in San Leandro for Summer 2019.
+# Course Website for Experimental CS Sessions in San Leandro for Summer 2019.
 
-Credits:
-  - Site Template Adapted from [here](https://codepen.io/htschmed/pen/RMEEzM).
+Check it out at [https://sanleandrocs.github.io/](https://sanleandrocs.github.io/).
