@@ -34,7 +34,7 @@ We may forget to introduce some concepts, but asking questions will help you and
 **What is Computer Science?**
 
 - Ask students to write down their definition of CS and discuss in groups!
-- Describe
+- Describe.
 
     > Computer science is the study of processes that interact with data and that can be represented as data in the form of programs. It enables the use of algorithms to manipulate, store, and communicate digital information. A computer scientist studies the theory of computation and the practice of designing software systems. -Wikipedia
 
@@ -50,9 +50,9 @@ We may forget to introduce some concepts, but asking questions will help you and
 
 A. Opening Screen
    1. Click play and you will circles appear on your screen wherever your mouse is.
-      a. Inside the code (</>), you'll find a setup function and a draw function that contains code.
-      b. Look up documentation by searching in taskbar tab labeled reference. For instance, if you look up `setup()`, you get [here](http://p5js.org/reference/#/p5/setup).
-         i. Note that there is an **example**, a **description** of the function, and **syntax** (rules to make the computer understand what you want to write. You will spend a lot of time looking at your code and
+      - Inside the code (</>), you'll find a setup function and a draw function that contains code.
+      - Look up documentation by searching in taskbar tab labeled reference. For instance, if you look up `setup()`, you get [here](http://p5js.org/reference/#/p5/setup).
+         - Note that there is an **example**, a **description** of the function, and **syntax** (rules to make the computer understand what you want to write. You will spend a lot of time looking at your code and
             looking back at this documentation for each function.
 
 B. Task 1: Make an ellipse appear in the middle of the screen. Use the syntax of the ellipse function to change the coordinates.
